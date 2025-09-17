@@ -6,3 +6,6 @@ h1 {color:darkcyan;}
 ul {padding: 2em;}
 p, li {font-size: larger; margin-bottom:10px;}
 footer {text-align: center;}
+a {color:black;}
+a:link {color:black;}
+a:visited {color:cornflowerblue;}
